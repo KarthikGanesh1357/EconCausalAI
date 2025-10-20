@@ -7,3 +7,6 @@ ipykernel
 fredapi
 yahoofinancials
 yfinance
+networkx
+pyvis
+neo4j
